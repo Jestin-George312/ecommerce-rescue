@@ -1,0 +1,54 @@
+Top 10 largest files inside ecommerce-rescue : 
+52K	website
+16K	website/customer
+16K	website/api
+16K	website/admin
+8.0K	monitoring
+4.0K	website/customer/products
+4.0K	website/customer/js
+4.0K	website/customer/css
+4.0K	website/api/routes
+4.0K	website/api/logs
+top 10 files :
+   539948      0 -rw-r--r--   1 root     root            0 Sep 30 11:10 ./website/customer/css/main.css
+   545020      0 -rw-r--r--   1 root     root            0 Sep 30 11:19 ./monitoring/audit.log
+   545029      0 -rw-r--r--   1 root     root            0 Sep 30 11:10 ./website/customer/home.html
+   545056      0 -rw-r--r--   1 root     root            0 Sep 30 11:14 ./website/admin/config/api.conf
+   545079      0 -rw-r--r--   1 root     root            0 Sep 30 11:11 ./website/customer/js/shop.js
+   545080      0 -rw-r--r--   1 root     root            0 Sep 30 11:18 ./backups/restore.sql
+   545081      0 -rw-r--r--   1 root     root            0 Sep 30 11:15 ./website/admin/users/users.json
+   545082      0 -rw-r--r--   1 root     root            0 Sep 30 11:16 ./website/api/controllers/inventory.json
+   545087      0 -rwx--x--x   1 jestin-george deployment_team        0 Sep 30 11:19 ./automation/deploy-prod.sh
+   545088      0 -rw-r--r--   1 root     root            0 Sep 30 11:19 ./reports/INSTALL.md
+ALl Json files : 
+   545081      0 -rw-r--r--   1 root     root            0 Sep 30 11:15 ./website/admin/users/users.json
+   545082      0 -rw-r--r--   1 root     root            0 Sep 30 11:16 ./website/api/controllers/inventory.json
+edited in past 24 hrs : 
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/customer/css/main.css
+./website/customer/home.html
+./website/customer/js/shop.js
+./website/api/controllers/inventory.json
+./backups/restore.sql
+./monitoring/audit.log
+./monitoring/server-report.txt
+./reports/INSTALL.md
+./automation/deploy-prod.sh
+empty files  : 
+./website/admin/users/users.json
+./website/admin/config/api.conf
+./website/customer/css/main.css
+./website/customer/home.html
+./website/customer/js/shop.js
+./website/api/controllers/inventory.json
+./backups/restore.sql
+./monitoring/audit.log
+./reports/INSTALL.md
+./automation/deploy-prod.sh
+empty diretories   : 
+./website/admin/dashboard
+./website/customer/products
+./website/api/routes
+./website/api/logs
+./assets
